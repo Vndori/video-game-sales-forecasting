@@ -2,6 +2,6 @@ pandas
 numpy
 matplotlib
 scipy
-# optional if you want to open the notebook locally:
+# if you want to open the notebook locally:
 jupyterlab
 ipykernel
